@@ -10,6 +10,7 @@ namespace Git.Playground
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("A");
         }
     }
 }

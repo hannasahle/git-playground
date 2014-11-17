@@ -15,6 +15,7 @@ namespace Git.Playground
             Console.WriteLine("C");
             Console.WriteLine("After mistake");
             Console.WriteLine("master");
+            Console.WriteLine("test");
         }
     }
 }

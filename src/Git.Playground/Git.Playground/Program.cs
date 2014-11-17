@@ -16,6 +16,7 @@ namespace Git.Playground
             Console.WriteLine("After mistake");
             Console.WriteLine("master");
             Console.WriteLine("test");
+            Console.WriteLine("test master that will be changed");
         }
     }
 }
